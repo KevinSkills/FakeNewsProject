@@ -3,6 +3,7 @@ The fake news project by Noah Wenneberg Junge, Kevin Mark Lock and Marcus Friis-
 04-04-2024
 
 To reproduce the results in this report do the following:
+
 Files needed to start:
 - news_sample.csv
 - 995Data.csv
