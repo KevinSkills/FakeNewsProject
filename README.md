@@ -15,7 +15,7 @@ Files needed to start:
 
 Steps:
 
-1. Open the jupyter notebook and run the setting up section. Change the DATA_PATH to your data folder (where you have the two files)
+1. Open the jupyter notebook and run the setting up section. Change the DATA_PATH to your data folder (where you have the starter files)
 2. Run the entire section "Part 1 - Task 1: Cleaning Functions and testing on News Sample"
 3. To see all the plots from data exploration, run "Part 1 - Task 2: Explore the FakeNewsCorpus" 
 4. Run the sections : "Part 1 - Task 3: Clean entire data" and "Part 1 - Task 4: Split the data". These are meant to be ran one after another. This will save some files in your folder for later usage.
