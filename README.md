@@ -11,6 +11,7 @@ Files needed to start:
 - GoogleNews-vectors-negative300.bin (For advanced model) Link: (https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?resourcekey=0-wjGZdNAUop6WykTtMip30g)
 - train_liar.tsv (we use the train data from liar as it has the largest amount of rows and since we dont train on it we can use it for testing )
 
+
 Steps:
 
 1. Open the jupyter notebook and run the setting up section. Change the DATA_PATH to your data folder (where you have the two files)
