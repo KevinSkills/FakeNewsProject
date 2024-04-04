@@ -1,5 +1,6 @@
 # FakeNewsProject
 The fake news project by Noah Wenneberg Junge, Kevin Mark Lock and Marcus Friis-Hansen
+
 04-04-2024
 
 To reproduce the results in this report do the following:
