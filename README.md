@@ -19,17 +19,20 @@ Steps:
 3. To see all the plots from data exploration, run "Part 1 - Task 2: Explore the FakeNewsCorpus" 
 4. Run the sections : "Part 1 - Task 3: Clean entire data" and "Part 1 - Task 4: Split the data". These are meant to be ran one after another. This will save some files in your folder for later usage.
 5. From this point, the document splits into two parts:
-  a. File setup
-    To train the models, there are some sections, that need to be ran to create the necessary files.
-     1. Run the "Make BoW vector" Section. Used for simple models. This is a requirement for making the TFIDF vector
-     2. Run the "Make TFIDF Vector" Section. This is used for models 1, 2, 3, 7
-     3. Run the "Make Embedding Vector" Section. Used for models 4
-     4. Run the "N Embeddings pr document" Section. Used for models 5, 6, 7
-  b. Training models
-    To train each model. Make sure you ran the section above for that specific model. Then run the section and the model gets trained, testet, and saved.
-    Note: Each model section has a validation part and a test-part, that we only used once.
-  c. Loading models:
-     We have uploaded all our models in the GitHub repository in models.zip. Download them and load them in the "Loading Models" section. Then run any model section except for the training part to test it.
+    1. File setup:
+   
+        To train the models, there are some sections, that need to be ran to create the necessary files.
+         1. Run the "Make BoW vector" Section. Used for simple models. This is a requirement for making the TFIDF vector
+         2. Run the "Make TFIDF Vector" Section. This is used for models 1, 2, 3, 7
+         3. Run the "Make Embedding Vector" Section. Used for models 4
+         4. Run the "N Embeddings pr document" Section. Used for models 5, 6, 7
+    2. Training models:
+   
+        To train each model. Make sure you ran the section above for that specific model. Then run the section and the model gets trained, testet, and saved.
+        Note: Each model section has a validation part and a test-part, that we only used once.
+    3. Loading models:
+   
+        We have uploaded all our models in the GitHub repository in models.zip. Download them and load them in the "Loading Models" section. Then run any model section except for the training part to test it.
 6. For our evaluation, make sure to have completed all the other steps and then run the entire section. Scores will show for model2_simple and model 7
   
 
